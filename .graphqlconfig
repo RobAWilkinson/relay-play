@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "relay-play": {
+      "schemaPath": "schema.graphql",
+      "extensions": {
+        "endpoints": {
+          "default": "https://graphql-compose.herokuapp.com/northwind/"
+        }
+      }
+    }
+  }
+}
